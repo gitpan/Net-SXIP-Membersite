@@ -1,0 +1,12 @@
+.cvsignore
+Build.PL
+demo/.htaccess
+demo/membersite.pl
+INSTALL
+lib/Net/SXIP/Membersite.pm
+LICENSE
+MANIFEST			This list of files
+README
+t/00-load.t
+META.yml
+Makefile.PL
